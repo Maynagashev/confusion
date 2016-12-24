@@ -1,6 +1,6 @@
 # confusion - bootstrap 3 final project
 
-Website of Restaurant - Coursera's Front-End Web UI Frameworks and Tools project
+Website of Restaurant - Front-End Web UI Frameworks and Tools project
 
 https://www.coursera.org/learn/web-frameworks
 
